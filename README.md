@@ -2,6 +2,7 @@
 Extracción y digitación automática de documentos al sistema ECUAPASS
 
 ## LOG
+Nov/06: r0.921: BOT5: Update icon to yellow
 Nov/06: r0.920: BOT5: Testing ALDIA cartaporte
 Jun/28: r0.911: BOT4: Bot controller: start and stop
 Jun/13: r0.910: Full Test: docs and bot. Added return messages for response handlin. Fixed printx.
