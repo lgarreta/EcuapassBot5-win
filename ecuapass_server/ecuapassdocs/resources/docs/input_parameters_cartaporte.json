@@ -46,7 +46,7 @@
 		"class": "input_general",
 		"ecudocsField": "00a_Pais",
 		"codebinField": "",
-		"aldiaField": "pais"
+		"aldiaField": "docField_pais"
 	},
 	"txt0a": {
 		"align": "left",
