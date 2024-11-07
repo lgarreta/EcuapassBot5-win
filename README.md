@@ -2,6 +2,7 @@
 Extracción y digitación automática de documentos al sistema ECUAPASS
 
 ## LOG
+Nov/06: r0.923: Working ALDIA Manifiesto.
 Nov/06: r0.922: BOT5: Chrome webdriver
 Nov/06: r0.921: BOT5: Update icon to yellow
 Nov/06: r0.920: BOT5: Testing ALDIA cartaporte
