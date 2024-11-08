@@ -2,6 +2,7 @@
 Extracción y digitación automática de documentos al sistema ECUAPASS
 
 ## LOG
+Nov/08: r0.925: LIB: Change driver birthdate to 2000
 Nov/08: r0.924: GUI: Changed docType, docNumber from PDF instead filename.
 Nov/06: r0.923: Working ALDIA Manifiesto.
 Nov/06: r0.922: BOT5: Chrome webdriver
