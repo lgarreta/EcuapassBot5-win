@@ -2,7 +2,9 @@
 Extracción y digitación automática de documentos al sistema ECUAPASS
 
 ## LOG
-Nov/09: r0.926: Fixed ScrapingBot flags.
+Nov/11: r0.929: Fixed empty ciudad-pais
+Nov/10: r0.928: Working ALDIA Cartaporte and manifiesto
+Nov/09: r0.927: Fixed ScrapingBot flags.
 Nov/08: r0.925: LIB: Change driver birthdate to 2000
 Nov/08: r0.924: GUI: Changed docType, docNumber from PDF instead filename.
 Nov/06: r0.923: Working ALDIA Manifiesto.
