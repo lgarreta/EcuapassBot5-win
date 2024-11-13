@@ -467,6 +467,11 @@
         "x": 535,
         "y": 676
     },
+    "txt25_0": {
+        "ecudocsField": "25_Carga_Tipo",
+        "codebinField": "",
+        "appField": "txt25_0"
+    },
     "txt25_1": {
         "align": "left",
         "class": "input_tipocarga",
