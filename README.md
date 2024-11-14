@@ -2,6 +2,7 @@
 Extracción y digitación automática de documentos al sistema ECUAPASS
 
 ## LOG
+Nov/14: r0.932: Fixed ALDIA requeriments: Gastos, pais-ciudad, conditions, notificado.
 Nov/13: r0.931: Renamed GUI project.
 Nov/13: r0.930: Fixed ALDIA reqs 01. Failing cartaporte values. 
 Nov/11: r0.929: Fixed empty ciudad-pais
