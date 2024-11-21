@@ -2,6 +2,7 @@
 Extracción y digitación automática de documentos al sistema ECUAPASS
 
 ## LOG
+Nov/21: r0.934: Changed to original formats for Ecuador
 Nov/21: r0.933: Fixed ALDIA-Ecuador reqs: New MCI coords. Improved infos.
 Nov/14: r0.932: Fixed ALDIA requeriments: Gastos, pais-ciudad, conditions, notificado.
 Nov/13: r0.931: Renamed GUI project.
