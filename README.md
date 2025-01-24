@@ -2,6 +2,8 @@
 Extracción y digitación automática de documentos al sistema ECUAPASS
 
 ## LOG
+Nov/24: r0.937: Removed
+
 Nov/22: r0.936: MCI: Removed default birthday for driver.
 Nov/22: r0.935: Added MCI contenedores info. No certificaco in Remolque.
 Nov/21: r0.934: Changed to original formats for Ecuador
